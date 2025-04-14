@@ -1,7 +1,7 @@
 # SCT_WD_T1
 COLOUR CHANGING NAVIGATION MENU
 
-#OUTPUT:
+# OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/d3cb2821-82e5-4c24-bafc-59b62f3ac3d3)
 
