@@ -1,5 +1,30 @@
 # SCT_WD_T1
-COLOUR CHANGING NAVIGATION MENU
+
+# COLOUR CHANGING NAVIGATION MENU 
+
+**Portfolio Website - Deepthi N J**
+
+A simple and responsive portfolio website built with **HTML**, **CSS**, and **JavaScript**, featuring smooth scroll animations and dynamic background transitions.
+
+## Features
+ Responsive design
+ Animated scroll effects (AOS)
+ Background changes on scroll
+ Project showcase and contact links
+
+## Files
+ `index.html` — Structure
+ `style.css` — Styling
+ `script.js` — Interactivity
+
+## How to Use
+ Download or clone the project.
+ Open `index.html` in a browser.
+
+## Contact
+ Email: [njdeepthi83@gmail.com](mailto:njdeepthi83@gmail.com)
+ LinkedIn: [Deepthi N J](https://www.linkedin.com/in/deepthinj)
+ GitHub: [99deepthinj](https://github.com/99deepthinj)
 
 # OUTPUT:
 
